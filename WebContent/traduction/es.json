@@ -1,0 +1,22 @@
+{
+"btnannul":"Reset Search",
+	"search":"Search",
+	"title": "Select A Language ",
+	"titlevoiture": "Information of car",
+	"Name": " Name",
+	"Prenom": " first name",
+	"Cin": "CIN",
+	"Depot": " The Deposit",
+	"Description": "The Description" ,
+	"Source": " The Source",
+	"Date": "Date of entry",
+	"liste":" Car list",
+	"btnajout":"Add New" ,
+	"input" : "Enter your search terms",
+	"tra" : " bar ",
+	"save" : "Save",
+	"delete" : " Delete ",
+	"global_language_en": "French",
+	"global_language_es": "English",
+	"global_language_ar": "Arabe"
+}

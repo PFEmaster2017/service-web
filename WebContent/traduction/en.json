@@ -1,0 +1,22 @@
+{
+"btnannul":"Réinitialiser",
+	"search":"Chercher",
+	"title": "Sélectionner Un Langue ",
+	"titlevoiture": "Information Voiture",
+	"Name": " Nom",
+	"Prenom": " Prenom",
+	"Cin": "CIN ",
+	"Depot": " Depot",
+	"Description": "  Description",
+	"Source": " Source",
+	"Date": " Date d'entrée",
+	"liste": "Liste Voitures",
+	"btnajout":"Ajouter Nouvel",
+	"input" : "Entrez termes de recherche",
+	"tra" : " bar ",
+	"save" : "Enregistrer",
+	"delete" : "Supprimer",
+	"global_language_en": "Français",
+	"global_language_es": "English",
+	"global_language_ar": "Arabic"
+}
